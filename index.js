@@ -9,3 +9,5 @@ console.log(name);
 var number = 5; 
 console.log(number);
 
+var firstName ="Mohammed";
+console.log(firstName);
